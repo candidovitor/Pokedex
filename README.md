@@ -1,5 +1,5 @@
 # Pokedex
-
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/candidovitor/Pokedex/blob/main/LICENSE)
 
 # Sobre o projeto
 Pokedex é originada do jogo pokemon, que nela é mostrada quais pokemon existem dentro do jogo. Cada pokemon é uma especie de animal, criatura ou até mesmo um monstrinho do game.
