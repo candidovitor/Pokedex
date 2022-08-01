@@ -24,8 +24,9 @@ Nesse projeto, forando realizadas tecnologias de Front-end para desenvolver uma 
 
 # Abra o arquivo index
 ```
+Nele, voce pode digitar um número do pokemon que você ja conhece da pokedex, ou então ir descobrinde passando um por um. Conheça os pokemons nesse projeto.
 
-# Author
+# Autor
 
 Vítor Cândido Rodrigues
 
